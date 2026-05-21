@@ -18,7 +18,7 @@ El sistema se rige por un modelo de Control de Acceso Basado en Roles (RBAC):
 * **Administrador:** Acceso total a configuración técnica, módulos y bases de datos.
 * **Contable:** Privilegios de lectura y escritura sobre el módulo de facturación, acceso a extractos y exportación UBL/JSON.
 * **Comercial:** Permisos limitados a la creación de presupuestos, lectura de catálogo de productos y cartera de clientes propia.
-* **Políticas de contraseñas:* Se exige una longitud mínima de 12 caracteres, alfanumérica y rotación cada 90 días.
+* **Políticas de contraseñas:** Se exige una longitud mínima de 12 caracteres, alfanumérica y rotación cada 90 días.
 
 ## 4. Procedimiento de Backup y Restauración
 Para garantizar la sostenibilidad operativa, los respaldos completos deben ejecutarse diariamente.
